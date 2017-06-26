@@ -1,0 +1,21 @@
+html {
+    
+    background-color: #2C2C2C;
+    
+}
+
+#titel,h2 {
+    
+    text-align: center;
+    font-family: 'Yrsa', serif;
+    font-style: normal;
+}
+
+#titel {
+    font-size: 350%;
+    font color: #FFFFFF;
+}
+
+h2 {
+    font-size: 200%;
+}
