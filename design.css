@@ -1,34 +1,33 @@
-html {
+body {
+    margin: 0;
 }
 
 #titel {
     font-size: 250%;
     font-family: 'Open Sans Condensed', sans-serif;
     font-family: 'Poiret One', cursive;
-    color: antiquewhite;
+    color: #eee;
 }
 
-h1, h2 {
+h1,
+h2 {
     text-align: center;
     font-size: 130%;
     font-family: 'Open Sans Condensed', sans-serif;
     font-family: 'Poiret One', cursive;
-    color: #CABEBF;
-
+    color: rgba(255, 255, 255, 0.7);
 }
 
 .Startseite {
-    
     background-image: url(season-1985856_1920.jpg);
-    background-size:cover;
+    background-size: cover;
     background-position: bottom center;
     width: 100%;
-    height: 950px;
+    height: 100vh;
 }
 
 #Kopfzeile {
-    
-    background-color:#354551;
+    background-color: #354551;
     height: auto;
     padding: 10px;
 }
