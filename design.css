@@ -1,4 +1,6 @@
+
 html {
+    background-color: darkgray
 }
 body{
     margin: 0;
@@ -8,6 +10,12 @@ body{
     font-family: 'Open Sans Condensed', sans-serif;
     font-family: 'Poiret One', cursive;
     color: antiquewhite;
+}
+
+p {
+    font-family: 'Open Sans Condensed', sans-serif;
+    font-family: 'Poiret One', cursive;
+    font-size: 19px
 }
 
 h1, h2 {
@@ -61,4 +69,16 @@ li a {
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
+}
+
+
+
+.Inhalt{
+    margin-top: 60px;
+    margin:auto;
+    width: 70%;
+    height: 100%;
+    font-size: 19px;
+    background-color:aliceblue
+}
 }
