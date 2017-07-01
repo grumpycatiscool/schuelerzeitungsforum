@@ -74,11 +74,15 @@ li a {
 
 
 .Inhalt{
-    margin-top: 60px;
     margin:auto;
+    margin-top: 40px;
     width: 70%;
     height: 100%;
-    font-size: 19px;
     background-color:aliceblue
 }
+
+.Text{
+    padding-top: 2px;
+    padding-left: 25px;
+    padding-right: 25px;
 }
