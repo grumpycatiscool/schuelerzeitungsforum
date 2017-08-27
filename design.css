@@ -1,9 +1,14 @@
 
 html {
-    background-color: darkgray
+    background-color: darkgray;
+    height:100%;
+    margin:0;
+    padding:0;
 }
 body{
     margin: 0;
+    padding:0;
+    height:100%;
 }
 #titel {
     font-size: 250%;
@@ -78,11 +83,13 @@ li a {
     margin-top: 40px;
     width: 70%;
     height: 100%;
-    background-color:aliceblue
+    background-color:aliceblue;
+    margin-bottom: 35px;
 }
 
 .Text{
     padding-top: 2px;
     padding-left: 25px;
     padding-right: 25px;
+    padding-bottom: 25px;
 }
